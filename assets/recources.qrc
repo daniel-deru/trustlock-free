@@ -1,0 +1,81 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="tabicons">
+        <file alias="white_apps.svg">white_apps.svg</file>
+        <file alias="white_notes.svg">white_notes.svg</file>
+        <file alias="white_settings.svg">white_settings.svg</file>
+        <file alias="white_task.svg">white_task.svg</file>
+        <file alias="white_vault.svg">white_vault.svg</file>
+        <file alias="black_apps.svg">black_apps.svg</file>
+        <file alias="black_notes.svg">black_notes.svg</file>
+        <file alias="black_settings.svg">black_settings.svg</file>
+        <file alias="black_task.svg">black_task.svg</file>
+        <file alias="black_vault.svg">black_vault.svg</file>
+    </qresource>
+    <qresource prefix="arrows">
+        <file alias="left-arrow.svg">left-arrow.svg</file>
+        <file alias="right-arrow.svg">right-arrow.svg</file>
+        <file alias="up-arrow.svg">up-arrow.svg</file>
+        <file alias="down-arrow.svg">down-arrow.svg</file>
+    </qresource>
+    <qresource prefix="input">
+        <file alias="radio-on.svg">radio-on.svg</file>
+        <file alias="radio-off.svg">radio-off.svg</file>
+        <file alias="toggle-on.svg">toggle-on.svg</file>
+        <file alias="toggle-off.svg">toggle-off.svg</file>
+        <file alias="toggle_square_on">toggle_square_on.svg</file>
+        <file alias="toggle_square_off">toggle_square_off.svg</file>
+        <file alias="eye_black_closed.svg">eye_black_closed.svg</file>
+        <file alias="eye_black_open.svg">eye_black_open.svg</file>
+        <file alias="eye_white_closed.svg">eye_white_closed.svg</file>
+        <file alias="eye_white_open.svg">eye_white_open.svg</file>
+        <file alias="copy_white">copy_white.svg</file>
+        <file alias="copy_black">copy_black.svg</file>
+    </qresource>
+    <qresource prefix="other">
+        <file alias="calendar.svg">calendar.svg</file>
+        <file alias="delete.png">delete.png</file>
+        <file alias="delete.svg">delete.svg</file>
+        <file alias="done.png">done.png</file>
+        <file alias="edit.png">edit.png</file>
+        <file alias="edit.svg">edit.svg</file>
+        <file alias="edit_black">edit_black.svg</file>
+        <file alias="splash.png">splash.png</file>
+        <file alias="app_icon">trustlock.ico</file>
+        <file alias="app_logo">app_logo.png</file>
+        <file alias="SMT Logo.png">SMT Logo.png</file>
+        <file alias="background.jpg">background.jpg</file>
+        <file alias="loader.svg">loader.svg</file>
+        <file alias="google_auth_logo">google_auth_app_logo.png</file>
+    </qresource>
+    <qresource prefix="fonts">
+        <file alias="RobotoCondensed">RobotoCondensed-Regular.ttf</file>
+    </qresource>
+    <qresource prefix="button_icons">
+        <file alias="import">import.svg</file>
+        <file alias="reset">reset.svg</file>
+        <file alias="cloud_download">cloud_download.svg</file>
+        <file alias="cloud_upload">cloud_upload.svg</file>
+        <file alias="drive_download">drive_download.svg</file>
+        <file alias="drive_upload">drive_upload.svg</file>
+        <file alias="lock">lock.svg</file>
+        <file alias="unlock">unlock.svg</file>
+        <file alias="back">back_icon.svg</file>
+        <file alias="password">password_icon.svg</file>
+        <file alias="google">google_btn.png</file>
+        <file alias="setup">setup_icon.png</file>
+        <file alias="group">group_icon.svg</file>
+        <file alias="general">general_icon.svg</file>
+        <file alias="crypto">crypto_icon.svg</file>
+        <file alias="app">white_apps.svg</file>
+        <file alias="file_white">file_white.svg</file>
+        <file alias="file_black">file_black.svg</file>
+        <file alias="qrcode">qrcode.svg</file>
+        <file alias="timer">timer_icon.svg</file>
+        <file alias="auto_save">auto_save_icon.svg</file>
+        <file alias="key_file">key_file.svg</file>
+        <file alias="database">database.svg</file>
+    </qresource>
+
+
+</RCC>
